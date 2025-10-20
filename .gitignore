@@ -1,3 +1,14 @@
-venv
+
+venv/
+.env/
+.venv/
+env/
+
 crowd.mp4
+*.mp4
+*.avi
+*.mov
+
 yolov8n.pt
+yolov8*.pt
+*.pt
